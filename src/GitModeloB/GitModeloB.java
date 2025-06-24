@@ -6,6 +6,7 @@ public class GitModeloB {
 		System.out.println("Hola Mundo.");
 		System.out.println("Hola a tod@s");
 		System.out.println("Primer cambio r1");
+		System.out.println("Primer cambio en repositorio remoto");
 
 	}
 
